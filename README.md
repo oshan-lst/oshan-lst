@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshan Theekshana</h1>
-<h2 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+
 <h3 align="center">A passionate Developer</h3>
 
 - 📫 How to reach me **oshantheekshana63@gmail.com**
